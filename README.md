@@ -44,7 +44,7 @@ GPL V3.0.
 
 ## 参考资源
 
-* [QEMU模拟器](https://github.com/yangxiaojuan-loongson/qemu/blob/tcg-dev/target/loongarch/README)。可以在PC上模拟运行LoongArch架构的操作系统
+* [QEMU模拟器](https://github.com/foxsen/qemu-loongarch-runenv)。可以在PC上模拟运行LoongArch架构的操作系统
 * [关于LoongArch架构的工具链及文档](https://github.com/loongson)
 * [相关OS信息](https://github.com/chyyuu/os_course_info)
 
